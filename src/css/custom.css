@@ -36,7 +36,7 @@
 }
 
 .title {
-    font-size: 100px;
+    font-size: 8vw;
     background: -webkit-linear-gradient(45deg, #56d576, #0b6415);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -44,6 +44,7 @@
 }
 
 .subtitle {
+    font-size: 2vw;
     color: white;
 }
 
