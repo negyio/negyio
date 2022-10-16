@@ -23,7 +23,7 @@ const FeatureList = [
     title: 'High Portability',
     description: (
         <>
-        The Gateways, Nodes and Node Pools that make up Negy can all be run as containers. You have maximum flexibility to run your own personal Gateway at hand, or create a Node Pool and reconfigure the network itself.
+        The gateways, nodes and node pool that make up Negy can all be run as containers. You have maximum flexibility to run your own personal gateway at hand, or create a node pool and reconfigure the network itself.
         </>
     ),
   },
