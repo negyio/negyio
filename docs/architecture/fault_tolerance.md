@@ -12,7 +12,7 @@ If a gateway goes down, only the users who have configured the Gateway as a prox
 
 ## Node is down
 
-If a node is down, requests through that node are affected. This means that the larger the number of nodes, the less affected they will be. Furthermore, as nodes are regularly health-checked by the node pool, a down node will be removed from the node List; as soon as the gateway fetches a new node list, the node will be removed as a routing option.
+If a node is down, requests through that node are affected. This means that the larger the number of nodes, the less affected they will be. Furthermore, as nodes are regularly health-checked by the node pool, a down node will be removed from the node list. As soon as the gateway fetches a new node list, the node will be removed as a routing option.
 
 ## Node pool is down
 

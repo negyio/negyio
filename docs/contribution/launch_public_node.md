@@ -8,7 +8,7 @@ The easiest and most important way to contribute to Negy is to join a node to Ne
 
 ## Pre-requirements
 
-- You must have a global IP; if you are behind a NAT you will not be able to connect properly and will get an error on start-up. Make sure you have an IP address that is directly accessible from the Internet.
+- You must have a global IP. If you are behind a NAT you will not be able to connect properly and will get an error on start-up. Make sure you have an IP address that is directly accessible from the Internet.
 - It is recommended to have a Docker environment, which makes it easy to ensure that the Negy nodes are always up-to-date. On the other hand, you can also participate by compiling and running binaries of the Rust programme. However, in that case you always have to compile the latest binaries yourself.
 
 ## Launch your public node

@@ -19,4 +19,4 @@ Reach version 1.0. At this point, most websites can be browsed, and the protocol
 
 ## And more!
 
-Negy is continuously improving in response to user feedback. Negy is continuously improving in response to user feedback; Negy aims to create a world where people all over the world don't have to worry about their privacy.
+Negy is continuously improving in response to user feedback. Negy is continuously improving in response to user feedback. Negy aims to create a world where people all over the world don't have to worry about their privacy.

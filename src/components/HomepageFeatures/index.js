@@ -7,23 +7,23 @@ const FeatureList = [
     title: 'Anonymous Internet',
     description: (
         <>
-        Negy follows the traditional protocol called tor, but with much improved convenience and portability. Anonymised routing, which until now has given the impression of the Dark Web, is now easily available to everyone.
+        Negy transparently conceals the routing of HTTP requests. In other words, Negy makes it impossible for the accessing server to know who has accessed it.
         </>
     ),
   },
   {
-    title: 'Just as Proxy',
+    title: 'Protect Your Personal Data',
     description: (
         <>
-        Negy requires little special configuration. Simply adapt the proxy settings from the respective OS or software settings.
+        When it comes to personal data on the internet, cookies are now the most popular topic to get attention. But if you don\'t conceal your routing, you know who you are on a network level - Negy aims to be at the cutting edge of internet security.
         </>
     ),
   },
   {
-    title: 'High Portability',
+    title: 'Easy to Use',
     description: (
         <>
-        The gateways, nodes and node pool that make up Negy can all be run as containers. You have maximum flexibility to run your own personal gateway at hand, or create a node pool and reconfigure the network itself.
+        Negy aims to conceal routing easier than any other technology. Even if you are not a technician, you will find it easy to use. It takes less than a minute to try it out.
         </>
     ),
   },
