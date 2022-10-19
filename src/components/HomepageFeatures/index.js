@@ -51,6 +51,9 @@ export default function HomepageFeatures() {
           <Feature key={idx} {...props} />
       ))}
     </div>
+      <div className={styles.ph}>
+      <a href="https://www.producthunt.com/posts/negy?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-negy" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=363782&theme=light" alt="Negy - Next&#0032;Generation&#0032;Anonymous&#0032;Internet | Product Hunt" style={{width: '250px', height: '54px'}} width="250" height="54" /></a>
+      </div>
       </div>
       </section>
   );
