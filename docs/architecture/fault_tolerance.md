@@ -8,7 +8,7 @@ Fault-tolerance is one of the most important elements of any infrastructure netw
 
 ## Gateway is down
 
-If a gateway goes down, only the users who have configured the Gateway as a proxy are affected, as best practice dictates that the Gateway should be prepared by each user, and therefore only the user who manages the Gateway is affected. However, if you are using a Public Gateway and it goes down, many users will be affected. From this perspective, the Gateway is a component that should be managed by each user.
+If a gateway goes down, only the users who have configured the gateway as a proxy are affected, as best practice dictates that the gateway should be prepared by each user, and therefore only the user who manages the gateway is affected. However, if you are using a public gateway and it goes down, many users will be affected. From this perspective, the gateway is a component that should be managed by each user.
 
 ## Node is down
 
