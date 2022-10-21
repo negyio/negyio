@@ -22,6 +22,16 @@ const config = {
     locales: ['en'],
   },
 
+  plugins: [
+    [
+      '@docusaurus/plugin-google-gtag',
+      {
+        trackingID: 'G-SSB7PBZS62',
+        anonymizeIP: true,
+      },
+    ],
+  ],
+
   presets: [
     [
       'classic',
@@ -35,10 +45,6 @@ const config = {
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
-        },
-        gtag: {
-          trackingID: 'G-SSB7PBZS62',
-          anonymizeIP: true,
         },
       }),
     ],
