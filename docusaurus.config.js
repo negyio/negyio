@@ -70,7 +70,7 @@ const config = {
           position: 'left',
           label: 'Documents',
         },
-        // {to: '/blog', label: 'Blog', position: 'left'},
+        {to: '/blog', label: 'Blog', position: 'left'},
         {
           to: '/contact',
           label: 'Contact',

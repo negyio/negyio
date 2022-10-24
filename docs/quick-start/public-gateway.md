@@ -6,6 +6,13 @@ sidebar_position: 1
 
 The gateway is the only component that knows the exact route. This means that for complete routing concealment, you should use a gateway that you control. However, here we will use a public gateway to see how Negy works. You only need to use the `curl` command, the rest is not necessary.
 
+:::tip
+
+If you are not developer, may be the following docs are more helpful!
+- [Configure on Windows](/docs/configuration/windows)
+
+:::
+
 Run the following command: did you receive the html from example.com?
 
 ```bash
