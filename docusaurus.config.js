@@ -55,7 +55,7 @@ const config = {
     colorMode: {
       defaultMode: 'dark',
       disableSwitch: true,
-      respectPrefersColorScheme: true,
+      respectPrefersColorScheme: false,
     },
     navbar: {
       title: 'Negy',
@@ -87,11 +87,15 @@ const config = {
       style: 'dark',
       links: [
         {
-          title: 'References',
+          title: 'Contents',
           items: [
             {
               label: 'Documents',
               to: '/docs/intro',
+            },
+            {
+              label: 'Blog',
+              to: '/blog',
             },
           ],
         },
@@ -115,10 +119,6 @@ const config = {
         {
           title: 'More',
           items: [
-            // {
-            //   label: 'Blog',
-            //   to: '/blog',
-            // },
             {
               label: 'Contact',
               to: '/contact',
