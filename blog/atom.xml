@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://negy.io/blog</id>
+    <title>Negy Blog</title>
+    <updated>2022-10-24T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://negy.io/blog"/>
+    <subtitle>Negy Blog</subtitle>
+    <icon>https://negy.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Negy's blog started!]]></title>
+        <id>start-blog</id>
+        <link href="https://negy.io/blog/start-blog"/>
+        <updated>2022-10-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Negy's blog started!]]></summary>
+        <content type="html"><![CDATA[<p>Thanks for following Negy! Today I decided to start Negy's blog!
+In this blog, I'll share progress, tips, and milestone.</p><p>Since Negy was launched, it got</p><ul><li>16 stars on <a href="https://github.com/negyio/negy" target="_blank" rel="noopener noreferrer">GitHub</a></li><li>42 upvotes and 56 followers on <a href="https://www.producthunt.com/posts/negy" target="_blank" rel="noopener noreferrer">ProductHunt</a></li><li>4.2k views on <a href="https://www.reddit.com/r/onions/comments/y9o0ic/negy_im_building_a_proxy_that_conceals_your/" target="_blank" rel="noopener noreferrer">reddit r/onions</a></li></ul><p>Thanks for the all supports!</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="updates">Updates<a class="hash-link" href="#updates" title="Direct link to heading">​</a></h2><ul><li><a href="https://github.com/negyio/negy/pull/7" target="_blank" rel="noopener noreferrer">Node returning version</a> and <a href="https://github.com/negyio/negy/pull/8" target="_blank" rel="noopener noreferrer">node pool lookup the ip provider's name</a> so that gateway could filtering the nodes<ul><li>For example, if some website blocks access from AWS, you can filter the nodes like <code>--block-providers=aws</code></li></ul></li><li><a href="https://github.com/negyio/negy/pull/10" target="_blank" rel="noopener noreferrer">Setting up CI/CD</a> for more stable and fast development.<ul><li>Now you can use <code>dev</code> tag docker image. It's the latest one but unstable.</li></ul></li><li>Added <a href="/docs/configuration/windows">Configure on Windows</a> docs on negy.io especially for non-developers.</li><li>Started this blog!</li></ul><h2 class="anchor anchorWithStickyNavbar_LWe7" id="whats-next">What's Next?<a class="hash-link" href="#whats-next" title="Direct link to heading">​</a></h2><ul><li><a href="https://github.com/negyio/negy/issues/5" target="_blank" rel="noopener noreferrer">Implement filtering</a> on gateway</li><li><a href="https://github.com/negyio/negy/issues/12" target="_blank" rel="noopener noreferrer">Think about http request (not https)</a></li><li>Release v0.1.1</li></ul>]]></content>
+        <author>
+            <name>Taichiro Suzuki</name>
+            <uri>https://github.com/tbrand</uri>
+        </author>
+    </entry>
+</feed>
