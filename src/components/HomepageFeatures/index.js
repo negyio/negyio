@@ -15,7 +15,7 @@ const FeatureList = [
     title: 'Protect Your Personal Data',
     description: (
         <>
-        When it comes to personal data on the internet, cookies are now the most popular topic to get attention. But if you don\'t conceal your routing, you know who you are on a network level - Negy aims to be at the cutting edge of internet security.
+        When it comes to personal data on the internet, cookies are now the most popular topic to get attention. But if you don't conceal your routing, the accessing server knows who you are on a network level.
         </>
     ),
   },
@@ -23,7 +23,7 @@ const FeatureList = [
     title: 'Easy to Use',
     description: (
         <>
-        Negy aims to conceal routing easier than any other technology. Even if you are not a technician, you will find it easy to use. It takes less than a minute to try it out.
+        Negy aims to conceal routing easier than any other technology like Tor. Even if you are not an engineer, you will find it easy to use. It takes less than a minute to try it out!
         </>
     ),
   },
