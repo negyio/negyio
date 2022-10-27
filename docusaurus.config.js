@@ -70,7 +70,16 @@ const config = {
           position: 'left',
           label: 'Documents',
         },
-        {to: '/blog', label: 'Blog', position: 'left'},
+        {
+          to: '/blog',
+          label: 'Blog',
+          position: 'left',
+        },
+        {
+          to: '/community',
+          label: 'Community',
+          position: 'right',
+        },
         {
           to: '/contact',
           label: 'Contact',
@@ -119,6 +128,10 @@ const config = {
         {
           title: 'More',
           items: [
+            {
+              label: 'Community',
+              to: '/community',
+            },
             {
               label: 'Contact',
               to: '/contact',
