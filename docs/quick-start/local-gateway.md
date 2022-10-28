@@ -2,11 +2,11 @@
 sidebar_position: 2
 ---
 
-# Launch local gateway
+# Launch your own gateway!
 
 For more secure routing, you can set up your own gateway. This is also one-line executable, assuming you have a docker runtime environment - if you are not familiar with docker, please refer to [this](https://docs.docker.com/get-started/) document. Now, execute the following command. Note that this is an interactive execution for testing purposes, but if you want to run it as a daemon, add the `-d` option.
 
-:::tips
+:::tip
 
 If all users use the same public gateway, the load may be concentrated and unstable. In this respect, managing your own gateway has an advantage.
 

@@ -133,6 +133,10 @@ const config = {
               to: '/community',
             },
             {
+              label: 'Twitter',
+              href: 'https://twitter.com/negyio',
+            },
+            {
               label: 'Contact',
               to: '/contact',
             },
