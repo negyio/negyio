@@ -4,10 +4,20 @@
         <title>Negy Blog</title>
         <link>https://negy.io/blog</link>
         <description>Negy Blog</description>
-        <lastBuildDate>Mon, 24 Oct 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Oct 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Negy's official Twitter account!]]></title>
+            <link>https://negy.io/blog/start-twitter-account</link>
+            <guid>start-twitter-account</guid>
+            <pubDate>Sat, 29 Oct 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Negy's official Twitter account started!]]></description>
+            <content:encoded><![CDATA[<p>Thanks for following Negy! Today <a href="https://twitter.com/negyio" target="_blank" rel="noopener noreferrer">Negy's official Twitter account</a> started! Please follow it!</p><p>Now we're building for version <code>0.1.1</code>.
+I'm quite excited that there is a first development contributor on <a href="https://github.com/negyio/negy/pull/18" target="_blank" rel="noopener noreferrer">here</a>!
+A number of other useful functions will be implemented. Please follow our Twitter account to catch up with the latest news!</p>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Negy's blog started!]]></title>
             <link>https://negy.io/blog/start-blog</link>
