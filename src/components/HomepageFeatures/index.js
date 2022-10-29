@@ -12,7 +12,7 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Protect Your Personal Data',
+    title: 'Protect Your Privacy',
     description: (
         <>
         When it comes to personal data on the internet, cookies are now the most popular topic to get attention. But if you don't conceal your routing, the accessing server knows who you are on a network level.

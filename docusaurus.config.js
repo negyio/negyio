@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Negy',
-  tagline: 'Next Generation Anonymous Internet.',
+  tagline: 'Next-Gen Proxy for Anonymous Internet.',
   url: 'https://negy.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -53,6 +53,20 @@ const config = {
   /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
   themeConfig: {
     image: 'img/twitter_og.png',
+    metadata: [
+      {
+        name: 'twitter:image:alt',
+        content: 'Negy\'s image',
+      },
+      {
+        name: 'twitter:title',
+        content: 'Negy - Next-gen Proxy for Anonymous Internet',
+      },
+      {
+        name: 'twitter:description',
+        content: 'Secure, Fast, Fault-tolerance, and High portability',
+      },
+    ],
     colorMode: {
       defaultMode: 'dark',
       disableSwitch: true,
