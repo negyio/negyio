@@ -52,7 +52,7 @@ const config = {
 
   /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
   themeConfig: {
-    image: 'img/logo.png',
+    image: 'img/twitter_og.png',
     colorMode: {
       defaultMode: 'dark',
       disableSwitch: true,
