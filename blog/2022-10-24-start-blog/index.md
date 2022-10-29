@@ -11,6 +11,8 @@ authors:
 Thanks for following Negy! Today I decided to start Negy's blog!
 In this blog, I'll share progress, tips, and milestone.
 
+<!-- truncate -->
+
 Since Negy was launched, it got
 - 16 stars on [GitHub](https://github.com/negyio/negy)
 - 42 upvotes and 56 followers on [ProductHunt](https://www.producthunt.com/posts/negy)
