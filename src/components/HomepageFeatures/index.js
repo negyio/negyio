@@ -23,7 +23,7 @@ const FeatureList = [
     title: 'Easy to Use',
     description: (
         <>
-        Negy aims to conceal routing easier than any other technology like Tor. Even if you are not an engineer, you will find it easy to use. It takes less than a minute to try it out!
+        Negy aims to conceal routing easier. Even if you are not an engineer, you will find it easy to use. No software is required other than setting up the proxy. There is no need to use a proprietary operating system or browser. You can use the internet with the same UX as usual.
         </>
     ),
   },

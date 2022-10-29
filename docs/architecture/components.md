@@ -12,7 +12,7 @@ The gateway is the entry point component of the request. All requests go through
 
 ## Node
 
-Nodes are components of the Negy network. Their role is to deliver received requests to the next component or arrival point, the server, and also to send the results in the reverse order. The large number of nodes directly contributes to network stability and security. Nodes are operated by Negy officially, but external contributions are most effective. Users with spare resources are encouraged to join the Negy network.
+Nodes are components of the Negy network. Their role is to deliver received requests to the next component or arrival point, the server, and also to send the results in the reverse order. The large number of nodes directly contributes to network stability and security. Nodes are operated by Negy officially, but external contributions are most effective. Users with spare resources are encouraged to join the Negy network. [Here](/docs/contribution/join_your_node_to_our_network) shows how to do that!
 
 ## Node pool
 
