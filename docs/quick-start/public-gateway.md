@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# First try!
+# First try!✨
 
 The gateway is the only component that knows the exact route. This means that for complete routing concealment, you should use a gateway that you control. However, here we will use a public gateway to see how Negy works. You only need to use the `curl` command, the rest is not necessary.
 

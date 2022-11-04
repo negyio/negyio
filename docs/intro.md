@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# What's Negy?
+# What's Negy?🖧
 
 There is no doubt that security on the internet will become more important in the future. Tracking by cookies is the most popular method of tracking at the moment, but Negy believes that routing will also need to be concealed in the near future. The advantage of concealing routing is that, apart from not revealing your identity to the server you are accessing, it can also be hidden from external attackers who are monitoring the network. Negy is a proxy that transparently conceals routing.
 

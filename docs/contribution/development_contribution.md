@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Development contribution
+# Development contribution💻
 
 Contributions to Negy in the form of bug fixes and feature additions are also welcome. Here are the basic steps to follow.
 

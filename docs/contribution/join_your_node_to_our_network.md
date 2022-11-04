@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Join your node to our network
+# Join your node to our network🌐
 
 The easiest and most important way to contribute to Negy is to join a node to Negy's network, helping to improve the stability and security of Negy's network. This section describes how to get your surplus resources to join the Negy network.
 
