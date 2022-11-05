@@ -4,11 +4,11 @@ sidebar_position: 1
 
 # What's Negy?🖧
 
-Negy is a proxy that uses the Tor principle to hide http routing from external and destination servers. Negy sticks to the network layer and does not interfere with applications. For example, you can use Google Chrome instead of a dedicated browser. Alternatively, it can be configured on your smartphone. There is no need to sacrifice the UX of your everyday applications.
+Negy is a proxy that uses the Tor protocol to hide http routing from external and destination servers. Negy sticks to the network layer and does not interfere with applications. For example, you can use Google Chrome instead of a dedicated browser. Alternatively, it can be configured on your smartphone. There is no need to sacrifice the UX of your everyday applications.
 
 :::tip
 
-Note that Negy follows the Tor principle in its implementation but it's not compatible.
+Note that Negy follows the Tor protocol in its implementation but it's not compatible.
 
 :::
 
