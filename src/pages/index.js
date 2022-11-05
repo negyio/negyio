@@ -12,7 +12,7 @@ function HomepageHeader() {
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
-      <img width="200" src="/img/logo.png"/>
+      <img width="280" src="/img/logo.png"/>
       <p className="hero__subtitle subtitle">L4 proxy that defends your privacy powered by Tor</p>
         <div className={styles.buttons}>
           <Link
