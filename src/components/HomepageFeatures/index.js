@@ -7,23 +7,23 @@ const FeatureList = [
     title: 'Anonymous Internet',
     description: (
         <>
-        Negy transparently conceals the routing of HTTP requests. In other words, Negy makes it impossible for the accessing server to know who has accessed it.
+        Negy gives everyone robust privacy. It is completely free and takes less than a minute to set up.
         </>
     ),
   },
   {
-    title: 'Protect Your Privacy',
+    title: 'Never give up UX',
     description: (
         <>
-        When it comes to personal data on the internet, cookies are now the most popular topic to get attention. But if you don't conceal your routing, the accessing server knows who you are on a network level.
+        We don't have to sacrifice the UX for the strong privacy protection, as Negy sticks to the network layer and does not interfere with the UX of the application layer.
         </>
     ),
   },
   {
-    title: 'Easy to Use',
+    title: 'Dark web won\'t be our target',
     description: (
         <>
-        Negy aims to conceal routing easier. Even if you are not an engineer, you will find it easy to use. No software is required other than setting up the proxy. There is no need to use a proprietary operating system or browser. You can use the internet with the same UX as usual.
+        Negy's target audience is not users who want to access the dark web. Rather, it is the opposite. To gain stronger security, http access is blocked. (Only https is allowed.)
         </>
     ),
   },

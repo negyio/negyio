@@ -4,8 +4,6 @@ sidebar_position: 1
 
 # Components
 
-![Architecture](./arch.png)
-
 ## Gateway
 
 The gateway is the entry point component of the request. All requests go through the gateway, which acts as a proxy and can be configured with the -x option of the curl command or a windows proxy configuration. The gateway receives a list of nodes from the node pool at start-up. It also refreshes the list periodically during execution. When gateway receives a request, it randomly selects few nodes from the list of nodes and decides on the routing. The number of the nodes called "hops". It then encrypts the payload in the reverse order of the routing as in the Tor protocol and passes the request to the first node. The results are received in the reverse order.

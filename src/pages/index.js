@@ -12,8 +12,8 @@ function HomepageHeader() {
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
-      <h1 className="hero__title title">Next-Gen Proxy for Anonymous Internet</h1>
-      <p className="hero__subtitle subtitle">Secure, Fast, Fault-tolerance, and High portability</p>
+      <img width="200" src="/img/logo.png"/>
+      <p className="hero__subtitle subtitle">L4 proxy that defends your privacy powered by Tor</p>
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"

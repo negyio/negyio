@@ -45,7 +45,11 @@
 
 .subtitle {
     font-size: 2vw;
-    color: white;
+    background: -webkit-linear-gradient(45deg, #56d576, #0b6415);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: bold;
+    margin-bottom: 60px;
 }
 
 .hero {
