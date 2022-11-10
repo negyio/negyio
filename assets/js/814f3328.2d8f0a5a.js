@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[535],{5641:t=>{t.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Version 0.1.1","permalink":"/blog/version-0-1-1"},{"title":"Negy\'s official Twitter account!","permalink":"/blog/start-twitter-account"},{"title":"Negy\'s blog started!","permalink":"/blog/start-blog"}]}')}}]);
