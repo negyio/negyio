@@ -2,6 +2,12 @@
 sidebar_position: 2
 ---
 
+:::caution
+Currently the public endpoint was closed. The command below would not work.
+If you want to try Negy, create your own network.
+See [Create full Negy network on your local pc](/docs/contribution/development_contribution.md)
+:::
+
 # Launch your own gateway!
 
 For more secure routing, you should set up your own gateway. This is also one-line executable, assuming you have a docker runtime environment - if you are not familiar with docker, please refer to [this](https://docs.docker.com/get-started/) document. Now, execute the following command. Note that this is an interactive execution for testing purposes, but if you want to run it as a daemon, add the `-d` option.

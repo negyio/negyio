@@ -2,6 +2,12 @@
 sidebar_position: 1
 ---
 
+:::caution
+Currently the public endpoint was closed. The command below would not work.
+If you want to try Negy, create your own network.
+See [Create full Negy network on your local pc](/docs/contribution/development_contribution.md)
+:::
+
 # First try!✨
 
 If you are a developer, run the following command in a terminal. This request is sent to example.com via the Negy network. Of course, nobody will know that you made the request.
